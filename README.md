@@ -171,7 +171,7 @@ I am a Backend Developer from Barcelona.
 <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mariapepu&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
   
-    > 🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a>
+  > 🔥 Get streak stats for your profile clicking ![here](https://git.io/streak-stats">git.io/streak-stats)
     
 </p>
 
@@ -192,6 +192,7 @@ I am a Backend Developer from Barcelona.
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--https://github-contributions.vercel.app/-->
+
 <!--
    ## Simple alerts in markdown
    > [!NOTE]
