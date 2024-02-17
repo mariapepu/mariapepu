@@ -187,7 +187,8 @@ I am a Backend Developer from Barcelona.
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <!--https://dev.to/krishnaagarwal/hey-47n1-->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="mariapepu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mariapepu&bg_color=00000000&color=D97ED3&line=79F2AE&point=0798F2&hide_border=true" /></a>
-<h3>⚡ Recent GitHub Activity</h3>
+
+<!--<h3>⚡ Recent GitHub Activity</h3>-->
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
