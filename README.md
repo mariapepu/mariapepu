@@ -191,7 +191,7 @@ I am a Backend Developer from Barcelona.
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-  
+<!--https://github-contributions.vercel.app/-->
 <!--
    ## Simple alerts in markdown
    > [!NOTE]
