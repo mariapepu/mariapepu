@@ -14,7 +14,7 @@
    -->
 <p align="center">
    <a href="https://github.com/mariapepu">
-   <img src="![305649610-435f0e1d-3c38-4106-b3f9-4dfbcf9f413d](https://github.com/user-attachments/assets/7fb12f0e-4ff5-4359-a604-c1d7df5be2a2)
+   <img src="https://github.com/user-attachments/assets/7fb12f0e-4ff5-4359-a604-c1d7df5be2a2)
 " alt="Maria Pérez"/></a>
 </p>
 <p align="center">
