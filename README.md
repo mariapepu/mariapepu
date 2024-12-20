@@ -13,8 +13,7 @@
    - ⚡ Fun fact: ...
    -->
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/7fb12f0e-4ff5-4359-a604-c1d7df5be2a2)
-" alt="Maria Pérez"/>
+   <img src="https://github.com/user-attachments/assets/7fb12f0e-4ff5-4359-a604-c1d7df5be2a2" alt="Maria Pérez"/>
 </p>
 <p align="center">
    <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
