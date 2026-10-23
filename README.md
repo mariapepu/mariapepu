@@ -1,4 +1,3 @@
-<!-- GitHub Profile README · Maria Pérez · cleaner, centered layout -->
 
 <div align="center">
 
@@ -32,12 +31,12 @@ Hi! I'm Maria, a Computer Engineer based in Barcelona.
 
 I have 2.5+ years of professional experience in backend development, and I'm currently pursuing a Master's degree in Quantum Computing.
 
-I enjoy understanding how things work, building software, and exploring new areas of computer science — especially where classical computing meets quantum technologies.
+I enjoy understanding how things work, building software, and exploring new areas of computer science.
 - ⚛️ Currently learning: quantum computing and its foundations
 - 💻 Professional background: backend development and software engineering
 - 🔍 Interested in: computer science, mathematics, and emerging technologies
-- 🎮 Beyond coding: video games, anime and 1st Dan in judo.
-- 💬 Let's connect: feel free to reach out on LinkedIn
+- 🎮 Beyond coding: video games, anime/manga and judo black belt
+- 💬 Let's connect: feel free to reach out on LinkedIn 🩷​
 </br>
 
 ## 🛠️ Tech stack
@@ -80,4 +79,4 @@ I'm updating this space with projects from my software engineering background an
 <sub>Language stats reflect public repository contents, not proficiency or professional experience.</sub>
 
 ---
-<i>Thanks for stopping by! 💜</i>
+<i>Thanks for stopping by! 🩷​</i>
