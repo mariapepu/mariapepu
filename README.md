@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/7fb12f0e-4ff5-4359-a604-c1d7df5be2a2" alt="Maria Pérez banner" width="100%" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&color=F789D5&center=true&vCenter=true&repeat=false&width=435&lines=Maria+P%C3%A9rez" alt="Typing SVG" /></a>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=F773E4&center=true&vCenter=true&width=620&height=70&lines=Computer+Engineer;Quantum+Computing+MSc+Student;2.5+Years+in+Backend+Development" alt="Animated introduction: Computer Engineer, Quantum Computing MSc Student, 2.5 years in Backend Development" />
