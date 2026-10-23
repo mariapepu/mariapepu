@@ -21,7 +21,7 @@
 <img src="https://custom-icon-badges.demolab.com/github/followers/mariapepu?color=498C6D&labelColor=53A677&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" alt="GitHub followers" />
 
 </div>
-
+</br>
 
 
 ## 👩🏻‍💻 About me
@@ -38,6 +38,7 @@ I enjoy understanding how things work, building software, and exploring new area
 - 🔍 Interested in: computer science, mathematics, and emerging technologies
 - 🎮 Beyond coding: video games, anime and 1st Dan in judo.
 - 💬 Let's connect: feel free to reach out on LinkedIn
+</br>
 
 ## 🛠️ Tech stack
 
@@ -59,7 +60,7 @@ I enjoy understanding how things work, building software, and exploring new area
 - Libraries & frameworks: NumPy, Pandas, SQLAlchemy, Mongoose, Vue, Jest, Pytest, JUnit, Bootstrap
 - Other tools: Postman, Swagger, Jupyter, GitLab, Firebase, Arduino, Figma, IntelliJ IDEA
 </details>
-
+</br>
 <!--
 🚀 Projects
 I'm updating this space with projects from my software engineering background and my journey into quantum computing.
@@ -71,12 +72,11 @@ I'm updating this space with projects from my software engineering background an
 
 
 ## 📊 GitHub activity
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariapepu&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top languages in public repositories" height="165" align="right"/>
+<img src="https://streak-stats.demolab.com?user=mariapepu&theme=radical&hide_border=true&background=00000000&mode=weekly" alt="GitHub contribution streak" align="right"/>
 <img src="https://github-readme-stats.vercel.app/api?username=mariapepu&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="Maria's GitHub stats" height="165" align="center"/>
-<img src="https://streak-stats.demolab.com?user=mariapepu&theme=radical&hide_border=true&background=00000000&mode=weekly" alt="GitHub contribution streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariapepu&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top languages in public repositories" height="165"/>
 
-
-<sub>Language stats reflect public repository contents, not proficiency or professional experience.</sub>
+> <sub>Language stats reflect public repository contents, not proficiency or professional experience.</sub>
 
 ---
 <i>Thanks for stopping by! 💜</i>
