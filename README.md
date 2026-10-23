@@ -50,7 +50,7 @@ I enjoy understanding how things work, building software, and exploring new area
 
 ### Tools & data
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,pytorch,tensorflow&theme=dark" alt="Tools and data" />
-
+</br>
 
 <details>
   <summary><b>More technologies I've worked with</b></summary>
@@ -75,9 +75,9 @@ I'm updating this space with projects from my software engineering background an
 <img src="https://streak-stats.demolab.com?user=mariapepu&theme=radical&hide_border=true&background=00000000&mode=weekly" alt="GitHub contribution streak" align="right"/>
 <img src="https://github-readme-stats.vercel.app/api?username=mariapepu&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="Maria's GitHub stats" height="165" align="left"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariapepu&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top languages in public repositories" height="165"/>
-
 </br>
-> <sub>Language stats reflect public repository contents, not proficiency or professional experience.</sub>
+</br>
+<sub>Language stats reflect public repository contents, not proficiency or professional experience.</sub>
 
 ---
 <i>Thanks for stopping by! 💜</i>
