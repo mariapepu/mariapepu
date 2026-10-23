@@ -7,8 +7,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=F773E4&center=true&vCenter=true&width=650&height=60&lines=Computer+Engineer;Quantum+Computing+MSc+Student;Backend+Developer" alt="Animated introduction" />
 </a>
 
-<br />
-<br />
+</br>
+</br>
 
 <a href="https://www.linkedin.com/in/maria-p%C3%A9rez-pull%C3%A8s-893b1b246/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -20,8 +20,8 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
-<br />
-<br />
+</br>
+</br>
 
 <img src="https://komarev.com/ghpvc/?username=mariapepu&style=for-the-badge&color=D97ED3&label=PROFILE+VIEWS" alt="Profile views" />
 <img src="https://custom-icon-badges.demolab.com/github/followers/mariapepu?color=498C6D&labelColor=53A677&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" alt="GitHub followers" />
@@ -63,7 +63,7 @@ Tools & data
 
 <details>
   <summary><b>More technologies I've worked with</b></summary>
-  <br />
+  </br>
 
 - Other languages & formats: Assembly (MIPS), HTML, CSS, SQL, R, Markdown, JSON
 - Libraries & frameworks: NumPy, Pandas, SQLAlchemy, Mongoose, Vue, Jest, Pytest, JUnit, Bootstrap
