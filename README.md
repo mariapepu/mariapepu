@@ -26,7 +26,7 @@
 
 ## 👩🏻‍💻 About me
 
-<img align="right" alt="mpepu" src="avatar.png" width="320px" />
+<img align="right" alt="mpepu" src="avatar.png" width="300px" />
 
 Hi! I'm Maria, a Computer Engineer based in Barcelona.
 
