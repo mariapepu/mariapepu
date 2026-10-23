@@ -26,6 +26,8 @@
 
 ## 👩🏻‍💻 About me
 
+<img align="right" alt="mpepu" src="avatar.png" width="320px" />
+
 Hi! I'm Maria, a Computer Engineer based in Barcelona.
 
 I have 2.5+ years of professional experience in backend development, and I'm currently pursuing a Master's degree in Quantum Computing.
